@@ -1,12 +1,12 @@
 {
-  "name": "backend",
+  "name": "goal-app-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node based REST API to provide endpoints to goal-app-frontend and stores data in mongodb",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Maximilian Schwarzmüller / Academind GmbH",
+  "author": "cpramshad",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
